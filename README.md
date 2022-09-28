@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LordadnaP
+- 👀 I’m interested in Programmin, Gaming, Cooking
+- 🌱 I’m currently learning C#
